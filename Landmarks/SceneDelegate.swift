@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Creating_CombiningViews
+//  Landmarks
 //
 //  Created by Miguel on 27/06/20.
 //  Copyright © 2020 Miguel. All rights reserved.
